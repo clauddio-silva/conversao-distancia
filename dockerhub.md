@@ -1,3 +1,5 @@
-# Link Dockerhub com a imagem criada a partir do Dockerfile
+# DockerHub - Imagem da Aplicação
+
+# A imagem do contêiner foi publicada no DockerHub e pode ser acessada através do seguinte link:
 
 https://hub.docker.com/repository/docker/clauddiosilva075/conversao-distancia-desafio/general
